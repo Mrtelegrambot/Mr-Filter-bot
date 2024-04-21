@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="[https://i.ibb.co/cwpkJQG/Logo-white.png]" alt="Mr-Filter-bot Logo">
+  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  Mraprguild
+  VJ FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Mr+Filter+bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
 </p>
 
 ## Main Feature 
@@ -28,7 +28,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete 
 
-Join My <a href='https://telegram.dog/mraprguildmovies'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ## Commands
 ```
@@ -107,13 +107,13 @@ Join My <a href='https://telegram.dog/mraprguildmovies'>Update Channel</a> For M
 ### Optional Variables
 * <b>`PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py]([](https://github.com/Mrtelegrambot/Mr-Filter-bot.py)) for more optional variables.</b>
+* Check [info.py](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/info.py) for more optional variables.</b>
 
 
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template[https://github.com/Mrtelegrambot/Mr-Filter-bot]">
+<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Filter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -137,7 +137,7 @@ Use these commands:
 • Build Command: <code>pip3 install -U -r requirements.txt</code>
 <br>
 <br>
-• Start Command: <code>python bot.py</code>
+• Start Command: <code>python3 bot.py</code>
 <br>
 <br>
 Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
@@ -160,7 +160,7 @@ Use these settings when adding a monitor:</b>
 <details><summary><b>Deploy To VPS</summary>
 
 
-`git clone [https://github.com/Mrtelegrambot/Mr-Filter-bot]`
+`git clone https://github.com/VJBots/VJ-Filter-Bot`
 
 Install Packages
 
