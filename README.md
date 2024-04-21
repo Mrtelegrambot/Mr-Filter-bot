@@ -107,7 +107,7 @@ Join My <a href='https://t.me/mraprguildmovies'>Update Channel</a> For More Upda
 ### Optional Variables
 * <b>`PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Mrtelegrambot/Mr-Filter-bot)/Tech_VJ/info.py) for more optional variables.</b>
+* Check [info.py] (https://github.com/Mrtelegrambot/Mr-Filter-bot/blob/main/info.py) for more optional variables.</b>
 
 
 <details><summary><b>Deploy To Heroku</b></summary>
@@ -134,7 +134,7 @@ Join My <a href='https://t.me/mraprguildmovies'>Update Channel</a> For More Upda
 Use these commands:
 <br>
 <br>
-• Build Command: <code>pip3 install -U -r requirements.txt</code>
+• Build Command: <code>pip install -U -r requirements.txt</code>
 <br>
 <br>
 • Start Command: <code>python3 bot.py</code>
@@ -160,15 +160,15 @@ Use these settings when adding a monitor:</b>
 <details><summary><b>Deploy To VPS</summary>
 
 
-`git clone https://github.com/VJBots/VJ-Filter-Bot`
+`git clone https://github.com/Mrtelegrambot/Mr-Filter-bot`
 
 Install Packages
 
-`pip3 install -U -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 Edit info.py with variables as given below then run bot
 
-`python3 bot.py`
+`python bot.py`
 
 </b>
 </details>
