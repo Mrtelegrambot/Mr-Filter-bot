@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://iili.io/JSnGcjR.png:" alt="VJ-Filter-Bot Logo">
+  <img src="https://iili.io/JSnGcjR.png:" alt="Mr-Filter-bot Logo">
 </p>
 <h1 align="center">
   VJ FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+MR+FILTER+BOT!)
 </p>
 
 ## Main Feature 
@@ -28,7 +28,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete 
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://t.me/mraprguildmovies'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ## Commands
 ```
@@ -107,7 +107,7 @@ Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Updat
 ### Optional Variables
 * <b>`PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/info.py) for more optional variables.</b>
+* Check [info.py](https://github.com/Mrtelegrambot/Mr-Filter-bot)/Tech_VJ/info.py) for more optional variables.</b>
 
 
 <details><summary><b>Deploy To Heroku</b></summary>
