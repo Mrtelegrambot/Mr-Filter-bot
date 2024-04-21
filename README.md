@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://graph.org/file/d57d6f83abb6b8d0efb02.jpg](https://graph.org/file/8c4b21bde7c2e8ca83a0b.jpg)" alt="Mr-Filter-bot Logo">
+  <img src="[https://graph.org/file/8c4b21bde7c2e8ca83a0b.jpg]" alt="Mr-Filter-bot Logo">
 </p>
 <h1 align="center">
   Mraprguild
