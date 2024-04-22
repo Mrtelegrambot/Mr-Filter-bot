@@ -1,5 +1,5 @@
 {
-    "name": "VJ-FILTER-BOT",
+    "name": "Mr-Filter-Bot",
     "description": "This is auto filter bot with many advanced features.",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/VJBots/VJ-FILTER-BOT",
-    "repository": "https://github.com/VJBots/VJ-FILTER-BOT",
+    "website": "https://github.com/Mrtelegrambot/Mr-Filter-bot",
+    "repository": "https://github.com/Mrtelegrambot/Mr-Filter-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
