@@ -1,16 +1,12 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
 import pymongo
-from info import DATABASE_URI, DATABASE_NAME
-from pyrogram import enums
+from pyrogram import enums 
+from info import DATABASE_URL, DATABASE_NAME
 import logging
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)
 
-myclient = pymongo.MongoClient(DATABASE_URI)
-mydb = myclient[DATABASE_NAME]
+myclient = pymongo.MongoClient(DATABASE_URL)
+mydb = myclient["ManualFilters"]
 
 
 
@@ -99,7 +95,10 @@ async def count_filters(group_id):
     mycol = mydb[str(group_id)]
 
     count = mycol.count()
-    return False if count == 0 else count
+    if count == 0:
+        return False
+    else:
+        return count
 
 
 async def filter_stats():
