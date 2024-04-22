@@ -113,7 +113,7 @@ Join My <a href='https://t.me/mraprguildmovies'>Update Channel</a> For More Upda
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Mrtelegrambot/Mr-Filter-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -137,7 +137,7 @@ Use these commands:
 • Build Command: <code>pip install -U -r requirements.txt</code>
 <br>
 <br>
-• Start Command: <code>python3 bot.py</code>
+• Start Command: <code>python bot.py</code>
 <br>
 <br>
 Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
