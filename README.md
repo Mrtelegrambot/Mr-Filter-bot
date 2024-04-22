@@ -2,7 +2,7 @@
   <img src="https://iili.io/JSnGcjR.png:" alt="Mr-Filter-bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  Mr Filter Bot
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+MR+FILTER+BOT!)
